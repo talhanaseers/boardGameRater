@@ -1,1 +1,5 @@
 # boardGameRater
+
+This Python program is designed to manage and filter board games using three files. In boardgame.py, a Boardgame class is defined with attributes like name, ratings, and year published, providing a string representation of board games. The executive.py file houses an Executive class that reads board game data from a file, stores it in a list, and presents users with a menu-driven interface. Users can filter and display games based on ratings, years, weight, rating differences, and player counts. Finally, driver.py initializes an instance of the Executive class and runs a menu loop for interacting with and querying the board game data. This code serves as a versatile tool for managing and exploring board games based on various criteria.
+
+Beyond its practical utility, this program also serves as a showcase of my coding expertise. It exemplifies my coding syntax, impeccable indentation, and clear commentation, highlighting my commitment to following conventional coding styles. By exploring this codebase, I not only gain a valuable tool for board game management but also a model of exemplary coding practices in Python.
